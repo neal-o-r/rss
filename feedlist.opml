@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="Feeds" text="Feeds" description="Feeds" type="folder">
+      <outline title="The Irish Times - News" text="The Irish Times - News" description="The Irish Times - News" type="rss" xmlUrl="https://www.irishtimes.com/feeds/rss/newspaper/index.rss" htmlUrl="https://www.irishtimes.com/cmlink/the-irish-times-news-1.1319192"/>
+      <outline title="The Guardian" text="The Guardian" description="The Guardian" type="rss" xmlUrl="https://www.theguardian.com/uk/rss" htmlUrl="https://www.theguardian.com/uk"/>
+      <outline title="BBC" text="BBC" description="BBC" type="rss" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="https://www.bbc.co.uk/news/"/>
+      <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
+      <outline title="Science" text="Science" description="Science" type="rss" xmlUrl="https://www.sciencenews.org/feeds/headlines.rss" htmlUrl="https://www.sciencenews.org/"/>
+      <outline title="xkcd" text="xkcd" description="xkcd" type="atom" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"/>
+      <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" xmlUrl="http://slashdot.org/slashdot.rss" htmlUrl="https://slashdot.org/"/>
+      <outline title="Hacker News" text="Hacker News" description="Hacker News" type="rss" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+      <outline title="Terry Tao" text="Terry Tao" description="Terry Tao" type="rss" xmlUrl="https://terrytao.wordpress.com/feed/" htmlUrl="https://terrytao.wordpress.com"/>
+      <outline title="Shtetl-Optimized" text="Shtetl-Optimized" description="Shtetl-Optimized" type="rss" xmlUrl="https://www.scottaaronson.com/blog/?feed=rss2" htmlUrl="https://www.scottaaronson.com/blog"/>
+    </outline>
+  </body>
+</opml>
