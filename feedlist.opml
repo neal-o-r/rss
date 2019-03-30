@@ -15,6 +15,8 @@
       <outline title="Hacker News" text="Hacker News" description="Hacker News" type="rss" xmlUrl="http://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
       <outline title="Terry Tao" text="Terry Tao" description="Terry Tao" type="rss" xmlUrl="https://terrytao.wordpress.com/feed/" htmlUrl="https://terrytao.wordpress.com"/>
       <outline title="Shtetl-Optimized" text="Shtetl-Optimized" description="Shtetl-Optimized" type="rss" xmlUrl="https://www.scottaaronson.com/blog/?feed=rss2" htmlUrl="https://www.scottaaronson.com/blog"/>
+      <outline title="3QD" text="3QuarksDaily" description="3QD" type="rss" xmlUrl="https://www.3quarksdaily.com/feed" htmlUrl="https://www.3quarksdaily.com"/>
+      <outline title="New Yorker" text="New Yorker" description="New Yorker" type="rss" xmlUrl="http://www.newyorker.com/feed/everything" htmlUrl="http://www.newyorker.com"/>
     </outline>
   </body>
 </opml>
